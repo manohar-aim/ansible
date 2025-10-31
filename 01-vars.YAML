@@ -2,7 +2,7 @@
   hosts: localhost
   connection: local
   vars:
-    COURSE: Devops
+    COURSE: Ansible for AWS
     Duration: 10 HRS
     TRAINER: sivakumar reddy
   tasks:
